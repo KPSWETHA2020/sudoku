@@ -1,4 +1,5 @@
-### Sudoku 
+   # Sudoku 
+
 ## Aim:
 To develop a code to solve a given sudoku puzzle.
 
@@ -142,6 +143,14 @@ display(result)
 time_taken=time.time() - start_time
 print("\n\n{0} seconds".format(time_taken))
 ```
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## Output:
 ![11](https://user-images.githubusercontent.com/75235090/172778326-4a1ae796-c268-4874-8cd2-622c424fa6f0.jpg)
 ## Result:
