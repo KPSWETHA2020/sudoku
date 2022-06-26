@@ -1,4 +1,7 @@
-   # Sudoku 
+  ## Ex.No.:06
+  ## Date:07.06.2022
+  
+  # Sudoku 
 
 ## Aim:
 To develop a code to solve a given sudoku puzzle.
@@ -153,5 +156,17 @@ print("\n\n{0} seconds".format(time_taken))
 
 ## Output:
 ![11](https://user-images.githubusercontent.com/75235090/172778326-4a1ae796-c268-4874-8cd2-622c424fa6f0.jpg)
+```
+
+
+
+
+
+
+
+
+
+
+```
 ## Result:
 Thus, a program to solve sudoku puzzle using constraint propagation is implemented successfully.
